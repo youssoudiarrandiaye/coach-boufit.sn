@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/", "dest": "/boufit.html" },
+    { "src": "/boufit-assets.html", "dest": "/boufit-assets.html" }
+  ]
+}
